@@ -11,3 +11,5 @@ return - creates an argument that cubes a number
 conditions - isn't working
 
 counter - it starts a session in php and records the number of times a person visits the site
+
+text - isn't working, wants the phpmailer
