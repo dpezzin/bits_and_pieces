@@ -10,9 +10,9 @@ return - creates an argument that cubes a number
 
 	Process finished with exit code 0
 	
-conditions - isn't working
-
 counter - it starts a session in php and records the number of times a person visits the site
+	
+conditions - isn't working
 
 mvc - php website with mvc structure
 
