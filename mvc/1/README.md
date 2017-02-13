@@ -1,7 +1,12 @@
-mvc/0/README
+mvc/1/README
 
 David J. Malan
 malan@harvard.edu
+
+Improves upon mvc/0 by factoring out pages' header and footer.
+
+footer.php - pages' footer
+header.php - pages' header
 
 index.php - home page - links to:
 			-1) internal page lectures.php
