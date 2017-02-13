@@ -14,6 +14,8 @@ conditions - isn't working
 
 counter - it starts a session in php and records the number of times a person visits the site
 
+mvc - php website with mvc structure
+
 text - isn't working, wants the phpmailer
 
 misspellings - this is supposed to be an example of php dictionary, but it doesn't work correctly
