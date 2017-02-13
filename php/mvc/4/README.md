@@ -7,10 +7,7 @@ Improves upon mvc/3 by organizing files into subdirectories.
 
 includes/
    helpers.php - helper functions
-index.php - home page for course
-lectures.php - a list of lectures
+   
 templates/
    footer.php - pages' footer
    header.php - pages' header
-week0.php - a week
-week1.php - a week
