@@ -1,14 +1,5 @@
 <?php
 
-    /**
-     * counter.php
-     *
-     * David J. Malan
-     * malan@harvard.edu
-     *
-     * Implements a counter.  Demonstrates sessions.
-     */
-
     // enable sessions
     session_start();
 
